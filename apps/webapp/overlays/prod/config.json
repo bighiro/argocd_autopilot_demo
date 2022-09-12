@@ -1,0 +1,11 @@
+{
+  "appName": "webapp",
+  "userGivenName": "webapp",
+  "destNamespace": "prod",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/webapp/overlays/prod",
+  "srcRepoURL": "https://github.com/bighiro/argocd_autopilot_demo.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
